@@ -11,7 +11,7 @@ It is simple HTML website makes use of JQuery to provide responsiveness across v
 
 CREATED BY
 --------------------------------------
-Aravinth Panchadcharam - <me@aravinth.info>
+Aravinth Panchadcharam
 
 
 TESTED ON
